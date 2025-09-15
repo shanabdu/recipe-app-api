@@ -2,9 +2,12 @@
 Calculator functions
 """
 
+
 def add(x, y):
-    """Add two numbers and return the result."""
+    """Add two numbers together."""
     return x + y
+
+
 def subtract(x, y):
-    """Subtract two numbers and return the result."""
+    """Subtract x from y and return result."""
     return y - x
