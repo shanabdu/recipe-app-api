@@ -1,3 +1,3 @@
-from django.contrib import admin
-
-# Register your models here.
+# ...existing code...
+# Remove: from django.db import models
+# ...existing code...
